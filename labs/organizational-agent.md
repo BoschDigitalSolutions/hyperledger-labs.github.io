@@ -8,7 +8,7 @@ The Organizational Agent is a domain-specific controller and extension for Aries
 
 The project consists of a backend written in Java that provides domain-specific APIs for integration in enterprise systems, as well as a simple reference user interface.
 
-TODO: add picture
+![Organizational Agent](./images/organizationalAgent.png "Organizational Agent")
 
 # Initial Committers
 - https://github.com/etschelp
